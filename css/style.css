@@ -2466,6 +2466,16 @@ h3 {
   background-image: url(../image/banner/portrait_bg.jpg);
 }
 
+.baby_bg{
+  background-image: url(../image/banner/baby_bg.jpg);
+}
+.fashion_bg{
+  background-image: url(../image/banner/fashion_bg.jpg);
+}
+.celebrity_bg{
+  background-image: url(../image/banner/celebrity_bg.jpg);
+}
+
 /* line 7, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_bradcam.scss */
 .breadcam_bg_3 {
   background-image: url(../img/banner/bradcam_bg_3.png);

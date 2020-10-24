@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Wedding</title>
+    <title>Fashion</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -40,12 +40,12 @@
     <!-- header-end -->
 
     <!-- bradcam_area  -->
-    <div class="bradcam_area wedding_bg black_overlay">
+    <div class="bradcam_area fashion_bg black_overlay">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="bradcam_text text-center">
-                            <h3>Wedding Gallery</h3>
+                            <h3>Fashion Gallery</h3>
                         </div>
                     </div>
                 </div>
@@ -67,35 +67,17 @@
         <div class="container-fluid p-0">
             <div class="row no-gutters grid">
                         <div class="single_gallery grid-item large_img ">
-                                <a class="img-pop-up  thumb" href="image/wedding/1.jpg" >
-                                    <img src="image/wedding/1.jpg" alt="">
+                                <a class="img-pop-up  thumb" href="image/fashion/1.jpg" >
+                                    <img src="image/fashion/1.jpg" alt="">
                                 </a>
-                            </div>
+                        </div>
                         <div class="single_gallery grid-item mid_img">
-                                <a class="img-pop-up thumb" href="image/wedding/2.jpg" >
-                                    <img src="image/wedding/2.jpg" alt="">
+                                <a class="img-pop-up thumb" href="image/fashion/2.jpg" >
+                                    <img src="image/fashion/2.jpg" alt="">
                                 </a>
-                            </div>
-                        <div class="single_gallery grid-item small_img">
-                                <a class="img-pop-up thumb" href="image/wedding/3.jpg" >
-                                    <img src="image/wedding/3.jpg" alt="">
-                                </a>
-                            </div>
-                        <div class="single_gallery grid-item small_img">
-                                <a class="img-pop-up thumb" href="image/wedding/4.jpg" >
-                                    <img src="image/wedding/4.jpg" alt="">
-                                </a>
-                            </div>
-                        <div class="single_gallery grid-item large_img">
-                                <a class="img-pop-up thumb" href="image/wedding/5.jpg" >
-                                    <img src="image/wedding/5.jpg" alt="">
-                                </a>
-                            </div>
-                        <div class="single_gallery grid-item mid_img">
-                                <a class="img-pop-up thumb" href="image/wedding/6.jpg" >
-                                    <img src="image/wedding/6.jpg" alt="">
-                                </a>
-                            </div>
+                         </div>
+
+                       
             </div>
         </div>
     </div>
