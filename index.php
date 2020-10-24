@@ -138,7 +138,7 @@
                         <div class="thumb">
                             <img src="image/gallery/portrait.jpg" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="portrait_gallery.php" class="hover ">
                             <div class="hover_inner">
                                 <h3>Portraits</h3>
 
@@ -151,7 +151,7 @@
                         <div class="thumb">
                             <img src="image/gallery/baby.jpg" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="baby_gallery.php" class="hover ">
                             <div class="hover_inner">
                                 <h3>Babies</h3>
                             </div>
@@ -163,7 +163,7 @@
                         <div class="thumb">
                             <img src="image/gallery/fashion.jpg" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="fashion_gallery.php" class="hover ">
                             <div class="hover_inner">
                                 <h3>Fashions</h3>
                             </div>
@@ -175,7 +175,7 @@
                         <div class="thumb">
                             <img src="image/gallery/cele.jpg" alt="">
                         </div>
-                        <a  href="baby_gallery.html" class="hover ">
+                        <a  href="celebrity_gallery.php" class="hover ">
                             <div class="hover_inner">
                                 <h3>Celeberities</h3>
                             </div>

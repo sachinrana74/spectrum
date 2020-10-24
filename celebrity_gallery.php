@@ -66,12 +66,12 @@
         </div>
         <div class="container-fluid p-0">
             <div class="row no-gutters grid justify-content-center">
-                        <div class="single_gallery grid-item small_img">
+                        <div class="single_gallery grid-item large_img">
                                 <a class="img-pop-up  thumb" href="image/celebrity/1.jpg" >
                                     <img src="image/celebrity/1.jpg" alt="">
                                 </a>
                         </div>
-                        <div class="single_gallery grid-item small_img">
+                        <div class="single_gallery grid-item mid_img">
                                 <a class="img-pop-up thumb" href="image/celebrity/2.jpg" >
                                     <img src="image/celebrity/2.jpg" alt="">
                                 </a>
@@ -81,12 +81,12 @@
                                     <img src="image/celebrity/3.jpg" alt="">
                                 </a>
                          </div>
-                         <div class="single_gallery grid-item small_img">
+                         <div class="single_gallery grid-item mid_img">
                                 <a class="img-pop-up thumb" href="image/celebrity/4.jpg" >
                                     <img src="image/celebrity/4.jpg" alt="">
                                 </a>
                          </div>
-                         <div class="single_gallery grid-item small_img">
+                         <div class="single_gallery grid-item mid_img">
                                 <a class="img-pop-up thumb" href="image/celebrity/5.jpg" >
                                     <img src="image/celebrity/5.jpg" alt="">
                                 </a>
