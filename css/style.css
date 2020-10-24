@@ -2459,8 +2459,11 @@ h3 {
 }
 
 /* line 4, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_bradcam.scss */
-.breadcam_bg_2 {
-  background-image: url(../img/banner/bradcam_bg_2.png);
+.wedding_bg {
+  background-image: url(../image/banner/wedding_bg.jpg);
+}
+.portrait_bg{
+  background-image: url(../image/banner/portrait_bg.jpg);
 }
 
 /* line 7, ../../Arafath/CL/CL October/215. Photography/HTML/scss/_bradcam.scss */

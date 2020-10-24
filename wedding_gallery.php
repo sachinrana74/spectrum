@@ -40,7 +40,7 @@
     <!-- header-end -->
 
     <!-- bradcam_area  -->
-    <div class="bradcam_area breadcam_bg_2 black_overlay">
+    <div class="bradcam_area wedding_bg black_overlay">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
@@ -103,15 +103,7 @@
 
     <div class="next_prev_post">
         <div class="container">
-            <div class="row align-items-center border_bottom">
-                <div class="col-xl-3 col-lg-3 col-md-3">
-                    <div class="post_lisk text-left">
-                        <a href="#">
-                             <img src="img/arrow/1.svg" alt=""> <span>Prev</span>
-                        </a>
-                        <p>Nature Capture</p>
-                    </div>
-                </div>
+            <div class="row justify-content-center  border_bottom">
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="socical_button">
                         <ul>
@@ -130,60 +122,6 @@
             </div>
         </div>
     </div>
-    
-    
-    <!-- instragram_area  -->
-    <div class="instragram_area">
-        <div class="single_instagram">
-            <img src="img/instragram/1.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-        <div class="single_instagram">
-            <img src="img/instragram/2.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-        <div class="single_instagram">
-            <img src="img/instragram/3.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-        <div class="single_instagram">
-            <img src="img/instragram/4.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-        <div class="single_instagram">
-            <img src="img/instragram/5.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-        <div class="single_instagram">
-            <img src="img/instragram/6.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-    </div>
-    <!-- /instragram_area  -->
 
  
 

@@ -20,7 +20,7 @@
                                         <li><a href="#">Albums <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="wedding_gallery.php">Wedding</a></li>
-                                                <li><a href="#">Portrait</a></li>
+                                                <li><a href="portrait_gallery.php">Portrait</a></li>
                                                 <li><a href="#">Baby</a></li>
                                                 <li><a href="#">Fashion</a></li>
                                                 <li><a href="#">Celebrity</a></li>
