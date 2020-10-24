@@ -73,29 +73,39 @@
                             </div>
                         <div class="single_gallery grid-item mid_img">
                                 <a class="img-pop-up thumb" href="image/wedding/3.jpg" >
-                                    <img src="image/wedding/2.jpg" alt="">
+                                    <img src="image/portrait/2.jpg" alt="">
                                 </a>
                             </div>
                         <div class="single_gallery grid-item small_img">
                                 <a class="img-pop-up thumb" href="image/wedding/4.jpg" >
-                                    <img src="image/wedding/3.jpg" alt="">
+                                    <img src="image/portrait/3.jpg" alt="">
                                 </a>
                             </div>
                         <div class="single_gallery grid-item small_img">
                                 <a class="img-pop-up thumb" href="image/wedding/5.jpg" >
-                                    <img src="image/wedding/4.jpg" alt="">
+                                    <img src="image/portrait/4.jpg" alt="">
                                 </a>
                             </div>
                         <div class="single_gallery grid-item large_img">
                                 <a class="img-pop-up thumb" href="image/wedding/6.jpg" >
-                                    <img src="image/wedding/5.jpg" alt="">
+                                    <img src="image/portrait/5.jpg" alt="">
                                 </a>
                             </div>
                         <div class="single_gallery grid-item mid_img">
                                 <a class="img-pop-up thumb" href="image/wedding/7.jpg" >
-                                    <img src="image/wedding/6.jpg" alt="">
+                                    <img src="image/portrait/6.jpg" alt="">
                                 </a>
-                            </div>
+                        </div>
+                        <div class="single_gallery grid-item mid_img">
+                                <a class="img-pop-up thumb" href="image/wedding/7.jpg" >
+                                    <img src="image/portrait/7.jpg" alt="">
+                                </a>
+                        </div>
+                        <div class="single_gallery grid-item mid_img">
+                                <a class="img-pop-up thumb" href="image/wedding/7.jpg" >
+                                    <img src="image/portrait/8.jpg" alt="">
+                                </a>
+                        </div>
             </div>
         </div>
     </div>
