@@ -1,3 +1,4 @@
+    <header>   
         <div class="header-area ">
             <div id="sticky-header" class="main-header-area">
                 <div class="container-fluid">
@@ -46,3 +47,4 @@
                 </div>
             </div>
         </div>
+    </header>
