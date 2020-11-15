@@ -98,28 +98,11 @@
     </div>
     <!-- /gallery_area  -->
 
-    <div class="next_prev_post">
-        <div class="container">
-            <div class="row justify-content-center  border_bottom">
-                <div class="col-xl-6 col-lg-6 col-md-6">
-                    <div class="socical_button">
-                        <ul>
-                            <li>
-                                <a href="#"> <i class="fa fa-facebook"></i> Facebook </a>
-                            </li>
-                            <li>
-                                <a href="#"> <i class="fa fa-twitter"></i> Twitter </a>
-                            </li>
-                            <li>
-                                <a href="#"> <i class="fa fa-pinterest"></i> pinterest </a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    <!-- footer start -->
+    <?php
+        include 'includes/footer.php';
+    ?>
+    <!--/ footer end  -->
  
 
     <!-- JS here -->

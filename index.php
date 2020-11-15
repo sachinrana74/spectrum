@@ -1,6 +1,5 @@
-<!doctype html>
-<html class="no-js" lang="zxx">
-
+<!DOCTYPE html>
+<html class="no-js" lang="en">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -10,6 +9,9 @@
 
     <!-- <link rel="manifest" href="site.webmanifest"> -->
     <!-- Place favicon.ico in the root directory -->
+   
+  <link rel="shortcut icon" type="image/png" href="image/logo/png.spcetrum.png" />
+
 
     <!-- CSS here -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -25,13 +27,30 @@
     <link rel="stylesheet" href="css/slicknav.css">
     <link rel="stylesheet" href="css/style.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+
+    <style>
+    .map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .map-responsive iframe{
+        left:0;
+        top:0;
+        height:100%;
+        width:100%;
+        position:absolute;
+    }
+    html {
+        scroll-behavior: smooth;
+        }
+    </style>
+    
 </head>
 
 <body>
-    <!--[if lte IE 9]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
-        <![endif]-->
-
+   
     <!-- header-start -->
     <?php
         include 'includes/header.php';
@@ -46,10 +65,10 @@
                     <div class="row align-items-center">
                         <div class="col-xl-12 col-md-12">
                             <div class="slider_text text-center ">
-                                <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Halen, a professional Photographer <br>
-                                    I Captured Moments sachin </h3>
+                                <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Vishvesh, a professional Photographer <br>
+                                    I Captured Moments</h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
-                                    <a href="#" class="boxed-btn3">Explore Work</a>
+                                    <a href="#explore_part" id="explore" class="genric-btn success-border circle arrow">Explore Work</a>
                                 </div>
                             </div>
                         </div>
@@ -61,10 +80,10 @@
                     <div class="row align-items-center">
                         <div class="col-xl-12 col-md-12">
                             <div class="slider_text text-center ">
-                                <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Halen, a professional Photographer <br>
+                                <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Vishvesh, a professional Photographer <br>
                                     I Captured Moments</h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
-                                    <a href="#" class="boxed-btn3">Explore Work</a>
+                                <a href="#explore_part" id="explore" class="genric-btn success-border circle arrow">Explore Work</a>
                                 </div>
                             </div>
                         </div>
@@ -76,10 +95,10 @@
                     <div class="row align-items-center">
                         <div class="col-xl-12 col-md-12">
                             <div class="slider_text text-center ">
-                                <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Halen, a professional Photographer <br>
+                                <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Vishvesh, a professional Photographer <br>
                                     I Captured Moments</h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
-                                    <a href="#" class="boxed-btn3">Explore Work</a>
+                                   <a href="#explore_part" id="explore" class="genric-btn success-border circle arrow">Explore Work</a>
                                 </div>
                             </div>
                         </div>
@@ -91,10 +110,10 @@
                     <div class="row align-items-center">
                         <div class="col-xl-12 col-md-12">
                             <div class="slider_text text-center ">
-                                <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Halen, a professional Photographer <br>
+                                <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Vishvesh, a professional Photographer <br>
                                     I Captured Moments</h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
-                                    <a href="#" class="boxed-btn3">Explore Work</a>
+                                <a href="#explore_part" id="explore" class="genric-btn success-border circle arrow">Explore Work</a>
                                 </div>
                             </div>
                         </div>
@@ -119,7 +138,7 @@
                 </div>
             </div>
         </div>
-        <div class="container-fluid p-0">
+        <div class="container-fluid p-0" id="explore_part">
             <div class="row no-gutters justify-content-center">
                 <div class="col-xl-4 col-md-4 p-1">
                     <div class="single_photography">
@@ -184,11 +203,13 @@
                 </div>
             </div>
         </div>
+         <hr>
     </div>
+   
     <!-- /gallery_area  -->
 
     <!-- testimonial_area  -->
-    <div class="testimonial_area">
+    <!-- <div class="testimonial_area">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-10">
@@ -239,7 +260,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- /testimonial_area  -->
 
     <!-- team_area  -->
@@ -300,7 +321,7 @@
                                         +10 787 367 2567
                                 </li>
                                 <li>
-                                        <a href="#">contact08@halen.com</a>
+                                        <a href="#">contact08@Vishvesh.com</a>
                                 </li>
                             </ul>
                             <div class="socail_links">
@@ -326,46 +347,48 @@
                     </div>
                 </div>
                 <div class="col-lg-7">
-                        <div class="d-sm-block">
-                        <div class="mapouter"><div class="gmap_canvas"><iframe width="650" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Meghgiri%20Hostel&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://2piratebay.org">even terug</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:650px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:650px;}</style></div>
-                                <script>
-                                    function initMap() {
-                                        var uluru = {
-                                            lat: -25.363,
-                                            lng: 131.044
-                                        };
-                                        var grayStyles = [{
-                                                featureType: "all",
-                                                stylers: [{
-                                                        saturation: -90
-                                                    },
-                                                    {
-                                                        lightness: 50
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                elementType: 'labels.text.fill',
-                                                stylers: [{
-                                                    color: '#ccdee9'
-                                                }]
-                                            }
-                                        ];
-                                        var map = new google.maps.Map(document.getElementById('map'), {
-                                            center: {
-                                                lat: -31.197,
-                                                lng: 150.744
-                                            },
-                                            zoom: 9,
-                                            styles: grayStyles,
-                                            scrollwheel: false
-                                        });
-                                    }
-                                </script>
-                                <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&amp;callback=initMap">
-                                </script>
-                
-                            </div>
+                    <div class="d-sm-block">
+                    <div class="map-responsive"><iframe width="600" height="450" style="border: 0" src="https://maps.google.com/maps?q=Meghgiri%20Hostel&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" allowfullscreen></iframe></div></div>
+                            <script>
+                                function initMap() {
+                                    var uluru = {
+                                        lat: -25.363,
+                                        lng: 131.044,
+                                        size:200*200
+                                    };
+                                    var grayStyles = [{
+                                            featureType: "all",
+                                            stylers: [{
+                                                    saturation: -90
+                                                },
+                                                {
+                                                    lightness: 50
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            elementType: 'labels.text.fill',
+                                            stylers: [{
+                                                color: '#ccdee9'
+                                            }]
+                                        }
+                                    ];
+                                    var map = new google.maps.Map(document.getElementById('map'), {
+                                        center: {
+                                            lat: -31.197,
+                                            lng: 150.744
+                                        },
+                                        zoom: 9,
+                                        styles: grayStyles,
+                                        scrollwheel: false
+                                    });
+                                }
+                            </script>
+                            
+                            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpfS1oRGreGSBU5HHjMmQ3o5NLw7VdJ6I&amp;callback=initMap">
+                            </script>
+            
+                        </div>
                 </div>
             </div>
         </div>
@@ -425,41 +448,9 @@
     <!-- /instragram_area  -->
 
     <!-- footer start -->
-    <footer class="footer">
-        <div class="copy-right_text">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-xl-7 col-md-8">
-                        <p class="copy_right ">
-                            copyright part
-                        </p>
-                    </div>
-                    <div class="col-xl-5 col-md-4">
-                        <div class="socail_links">
-                            <ul>
-                                <li>
-                                    <a href="#">
-                                        <i class="ti-facebook"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="ti-twitter-alt"></i>
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="fa fa-instagram"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-    </footer>
+    <?php
+        include 'includes/footer.php';
+    ?>
     <!--/ footer end  -->
 
     <!-- JS here -->

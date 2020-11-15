@@ -7,7 +7,7 @@
                         <div class="col-xl-3 col-lg-2">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="img/logo.png" style="width:50%"  alt="">
+                                    <img src="image/logo/spectrum (2).png" style="width:50%"  alt="">
                                 </a>
                             </div>
                         </div>
@@ -17,7 +17,7 @@
                                     <ul id="navigation">
                                         <li><a class="active" href="index.php">Home</a></li>
                                         <li><a href="about.php">About</a></li>
-                                        <li><a href="#">Albums <i class="ti-angle-down"></i></a>
+                                        <li><a href="#explore_part" >Albums <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="wedding_gallery.php">Wedding</a></li>
                                                 <li><a href="portrait_gallery.php">Portrait</a></li>
