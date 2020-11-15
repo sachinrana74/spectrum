@@ -47,7 +47,7 @@
                         <div class="col-xl-12 col-md-12">
                             <div class="slider_text text-center ">
                                 <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Halen, a professional Photographer <br>
-                                    I Captured Moments sachin</h3>
+                                    I Captured Moments sachin </h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
                                     <a href="#" class="boxed-btn3">Explore Work</a>
                                 </div>
