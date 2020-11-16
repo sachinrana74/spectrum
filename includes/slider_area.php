@@ -8,7 +8,7 @@
                                 <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Vishvesh, a professional Photographer <br>
                                     I Captured Moments</h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
-                                    <a href="#explore_part" id="explore" class="genric-btn primary circle arrow">Explore Work</a>
+                                    <a href="#explore_part" id="explore" class="genric-btn primary circle arrow medium">Explore Work</a>
                                 </div>
                             </div>
                         </div>
@@ -23,7 +23,7 @@
                                 <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Vishvesh, a professional Photographer <br>
                                     I Captured Moments</h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
-                                <a href="#explore_part" id="explore" class="genric-btn primary circle arrow">Explore Work</a>
+                                <a href="#explore_part" id="explore" class="genric-btn primary circle arrow medium">Explore Work</a>
                                 </div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Vishvesh, a professional Photographer <br>
                                     I Captured Moments</h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
-                                   <a href="#explore_part" id="explore" class="genric-btn primary circle arrow">Explore Work</a>
+                                   <a href="#explore_part" id="explore" class="genric-btn primary circle arrow medium">Explore Work</a>
                                 </div>
                             </div>
                         </div>
@@ -53,7 +53,7 @@
                                 <h3 class="wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s" >Hi, This is Vishvesh, a professional Photographer <br>
                                     I Captured Moments</h3>
                                 <div class="video_service_btn wow fadeInDown" data-wow-duration="1s" data-wow-delay=".1s">
-                                <a href="#explore_part" id="explore" class="genric-btn primary circle arrow">Explore Work</a>
+                                <a href="#explore_part" id="explore" class="genric-btn primary circle arrow medium">Explore Work</a>
                                 </div>
                             </div>
                         </div>
