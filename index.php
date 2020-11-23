@@ -228,7 +228,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single_team">
                             <div class="team_thumb">
-                                <img src="img/team/3.png" alt="">
+                                <img src="image/team/1.jpg" alt="">
                             </div>
                             <div class="team_info text-center">
                                 <h3>Vishvesh</h3>
