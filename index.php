@@ -275,10 +275,10 @@
 
                                 </li>
                                 <li>
-                                        +10 787 367 2567
+                                        +91 83298 85619
                                 </li>
                                 <li>
-                                        <a href="#">contact08@Vishvesh.com</a>
+                                        <a href="#">media@thespectrumstudio.com</a>
                                 </li>
                             </ul>
                             <div class="socail_links">
