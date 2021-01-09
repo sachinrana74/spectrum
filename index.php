@@ -228,7 +228,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single_team">
                             <div class="team_thumb">
-                                <img src="image/team/1.jpg" alt="">
+                                <img style="border-radius:70%"  src="image/team/1.jpg" alt="">
                             </div>
                             <div class="team_info text-center">
                                 <h3>Vishvesh</h3>
