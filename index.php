@@ -122,7 +122,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-xl-4 col-md-4 p-1">
+                <!-- <div class="col-xl-4 col-md-4 p-1">
                     <div class="single_photography">
                         <div class="thumb">
                             <img src="image/gallery/baby.jpg" alt="">
@@ -133,7 +133,7 @@
                             </div>
                         </a>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-xl-4 col-md-4 p-1">
                     <div class="single_photography">
                         <div class="thumb">
@@ -146,7 +146,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-xl-4 col-md-4 p-1">
+                <!-- <div class="col-xl-4 col-md-4 p-1">
                     <div class="single_photography">
                         <div class="thumb">
                             <img src="image/gallery/cele.jpg" alt="">
@@ -157,7 +157,7 @@
                             </div>
                         </a>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
          <hr>
