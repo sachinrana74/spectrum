@@ -64,14 +64,14 @@
                 </div>
             </div>
         </div>
-        <div class="container-fluid p-0">
+        <div class="container-fluid p-1">
             <div class="row no-gutters grid">
-                        <div class="single_gallery grid-item large_img ">
+                        <div class="single_gallery grid-item col-xl-4 col-md-4 p-2 ">
                                 <a class="img-pop-up  thumb" href="image/baby/1.jpg" >
                                     <img src="image/baby/1.jpg" alt="">
                                 </a>
                         </div>
-                        <div class="single_gallery grid-item mid_img">
+                        <div class="single_gallery grid-item col-xl-4 col-md-4 p-2">
                                 <a class="img-pop-up thumb" href="image/baby/2.jpeg" >
                                     <img src="image/baby/2.jpeg" alt="">
                                 </a>

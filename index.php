@@ -46,7 +46,7 @@
         scroll-behavior: smooth;
         }
     </style>
-    <style> 
+    <!-- <style> 
         #explore {
        
         animation:explore 5s 2;
@@ -62,7 +62,7 @@
         100% {transform: rotate(-360deg);left:0px;}
         }
 
-    </style>
+    </style> -->
 
     
 </head>
