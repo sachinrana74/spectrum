@@ -122,31 +122,8 @@
                         </a>
                     </div>
                 </div>
-                <!-- <div class="col-xl-4 col-md-4 p-1">
-                    <div class="single_photography">
-                        <div class="thumb">
-                            <img src="image/gallery/baby.jpg" alt="">
-                        </div>
-                        <a  href="baby_gallery.php" class="hover ">
-                            <div class="hover_inner">
-                                <h3>Babies</h3>
-                            </div>
-                        </a>
-                    </div>
-                </div> -->
+                
                 <div class="col-xl-4 col-md-4 p-1">
-                    <div class="single_photography">
-                        <div class="thumb">
-                            <img src="image/gallery/fashion.jpg" alt="">
-                        </div>
-                        <a  href="fashion_gallery.php" class="hover ">
-                            <div class="hover_inner">
-                                <h3>Fashions</h3>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <!-- <div class="col-xl-4 col-md-4 p-1">
                     <div class="single_photography">
                         <div class="thumb">
                             <img src="image/gallery/cele.jpg" alt="">
@@ -157,7 +134,7 @@
                             </div>
                         </a>
                     </div>
-                </div> -->
+                </div>
             </div>
         </div>
          <hr>
@@ -225,7 +202,7 @@
         <div class="container">
             <div class="border_bottom">
                 <div class="row justify-content-center">
-                    <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="col-xl-2 col-lg-2 col-md-3">
                         <div class="single_team">
                             <div class="team_thumb">
                                 <img src="image/team/1.png" alt="">
@@ -351,58 +328,7 @@
         </div>
     </div>
 
-    <!-- instragram_area  -->
-    <div class="instragram_area">
-        <div class="single_instagram">
-            <img src="img/instragram/1.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-        <div class="single_instagram">
-            <img src="img/instragram/2.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-        <div class="single_instagram">
-            <img src="img/instragram/3.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-        <div class="single_instagram">
-            <img src="img/instragram/4.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-        <div class="single_instagram">
-            <img src="img/instragram/5.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-        <div class="single_instagram">
-            <img src="img/instragram/6.png" alt="">
-            <div class="ovrelay">
-                <a href="#">
-                    <i class="fa fa-instagram"></i>
-                </a>
-            </div>
-        </div>
-    </div>
-    <!-- /instragram_area  -->
+   
 
     <!-- footer start -->
     <?php

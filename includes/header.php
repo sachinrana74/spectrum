@@ -1,5 +1,5 @@
     <header>   
-        <div class="header-area ">
+        <div class="header-area">
             <div id="sticky-header" class="main-header-area">
                 <div class="container-fluid">
                     <div class="row align-items-center">
@@ -20,8 +20,6 @@
                                             <ul class="submenu">
                                                 <li><a href="wedding_gallery.php">Wedding</a></li>
                                                 <li><a href="portrait_gallery.php">Portrait</a></li>
-                                                <li><a href="baby_gallery.php">Baby</a></li>
-                                                <li><a href="fashion_gallery.php">Fashion</a></li>
                                                 <li><a href="Celebrity_gallery.php">Celebrity</a></li>
                                             </ul>
                                         </li>
