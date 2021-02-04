@@ -142,60 +142,7 @@
    
     <!-- /gallery_area  -->
 
-    <!-- testimonial_area  -->
-    <!-- <div class="testimonial_area">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-xl-10">
-                    <div class="testimonial_active owl-carousel">
-                        <div class="single_testmonial text-center">
-                            <h3>Our Customers Say</h3>
-                            <p>
-                                Whether you’re about to create a website for the first time, or you’re looking 
-                                for a theme that provides advanced capabilities, we have got them in 
-                                Blacksilver theme.
-                            </p>
-                            <div class="author_name d-flex align-items-center justify-content-center">
-                                <div class="thumb">
-                                    <img src="img/testmonial/author.png" alt="">
-                                </div>
-                                <span>- Robert Thomson</span>
-                            </div>
-                        </div>
-                        <div class="single_testmonial text-center">
-                            <h3>Our Customers Say</h3>
-                            <p>
-                                Whether you’re about to create a website for the first time, or you’re looking 
-                                for a theme that provides advanced capabilities, we have got them in 
-                                Blacksilver theme.
-                            </p>
-                            <div class="author_name d-flex align-items-center justify-content-center">
-                                <div class="thumb">
-                                    <img src="img/testmonial/author.png" alt="">
-                                </div>
-                                <span>- Robert Thomson</span>
-                            </div>
-                        </div>
-                        <div class="single_testmonial text-center">
-                            <h3>Our Customers Say</h3>
-                            <p>
-                                Whether you’re about to create a website for the first time, or you’re looking 
-                                for a theme that provides advanced capabilities, we have got them in 
-                                Blacksilver theme.
-                            </p>
-                            <div class="author_name d-flex align-items-center justify-content-center">
-                                <div class="thumb">
-                                    <img src="img/testmonial/author.png" alt="">
-                                </div>
-                                <span>- Robert Thomson</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div> -->
-    <!-- /testimonial_area  -->
+   
 
     <!-- team_area  -->
     <div class="team_area">
