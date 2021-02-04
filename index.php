@@ -97,7 +97,7 @@
         </div>
         <div class="container-fluid p-0" id="explore_part">
             <div class="row no-gutters justify-content-center">
-                <div class="col-xl-4 col-md-4 p-1">
+                <div class="col-xl-4 col-md-4 p-2">
                     <div class="single_photography">
                         <div class="thumb">
                             <img src="image/gallery/wedding.jpg" alt="">
@@ -109,7 +109,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-xl-4 col-md-4 p-1">
+                <div class="col-xl-4 col-md-4 p-2">
                     <div class="single_photography">
                         <div class="thumb">
                             <img src="image/gallery/portrait.jpg" alt="">
@@ -123,7 +123,7 @@
                     </div>
                 </div>
                 
-                <div class="col-xl-4 col-md-4 p-1">
+                <div class="col-xl-4 col-md-4 p-2">
                     <div class="single_photography">
                         <div class="thumb">
                             <img src="image/gallery/cele.jpg" alt="">
