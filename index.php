@@ -190,41 +190,29 @@
                         <div class="section_title">
                                 <h3>Contact Us</h3>
                         </div>
-                        <div class="address_info">
-                            <h4>Address</h4>
-                            <ul class="Address" >
-                                <li>
-                                        Spectrum Studio Ground Floor Meghgiri Hostel Behind Bank of Maharashtra,
-                                        Ambegaon(Budruk), Pune-411046
-
-                                </li>
-                                <li>
-                                        +91 83298 85619
-                                </li>
-                                <li>
-                                        <a href="#">media@thespectrumstudio.com</a>
-                                </li>
-                            </ul>
-                            <div class="socail_links">
-                                    <ul>
-                                        <li>
-                                            <a href="#">
-                                                <i class="ti-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="ti-twitter-alt"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="#">
-                                                <i class="fa fa-instagram"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
+                        
+                        <div class="media contact-info">
+                            <span class="contact-info__icon"><i class="ti-home"></i></span>
+                            <div class="media-body">
+                                <h3>Spectrum Studio Ground Floor Meghgiri Hostel Behind Bank of Maharashtra
+                                        </h3>
+                                <p>Ambegaon(Budruk), Pune-411046</p>
+                            </div>
                         </div>
+                        <div class="media contact-info">
+                            <span class="contact-info__icon"><i class="ti-tablet"></i></span>
+                            <div class="media-body">
+                                <h3> +91 83298 85619</h3>
+                            </div>
+                        </div>
+                        <div class="media contact-info">
+                            <span class="contact-info__icon"><i class="ti-email"></i></span>
+                            <div class="media-body">
+                                <h3>media@thespectrumstudio.com</h3>
+                                <p>Send us your query anytime!</p>
+                            </div>
+                        </div>
+                    
                     </div>
                 </div>
                 <div class="col-lg-7">
