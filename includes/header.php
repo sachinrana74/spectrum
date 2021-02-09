@@ -6,7 +6,7 @@
                         <div class="col-xl-3 col-lg-2">
                             <div class="logo">
                                 <a href="index.php">
-                                    <img src="image/logo/spectrum (2).png" style="width:50%"  alt="">
+                                    <img src="image/logo/logo1.png" style="width:40%"  alt="">
                                 </a>
                             </div>
                         </div>
