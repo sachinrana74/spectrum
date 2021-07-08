@@ -15,7 +15,6 @@
                                 <nav>
                                     <ul id="navigation">
                                         <li><a class="active" href="index.php">Home</a></li>
-                                        <li><a href="about.php">About</a></li>
                                         <li><a href="#explore_part" >Albums <i class="ti-angle-down"></i></a>
                                             <ul class="submenu">
                                                 <li><a href="wedding_gallery.php">Wedding</a></li>
